@@ -33,13 +33,13 @@ Furry Wrapper allows you to easily interact with an abundance of web APIs with t
 With npm:  
 
 ```bash
-$ npm install furry-wrapper
+$ npm install @TegarPriyadi/furry-wrapper
 ```
 
 With yarn:  
 
 ```bash
-$ yarn add furry-wrapper
+$ yarn add @TegarPriyadi/furry-wrapper
 ```
 
 ## Usage
