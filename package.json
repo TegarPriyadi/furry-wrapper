@@ -1,5 +1,5 @@
 {
-  "name": "@TegarPriyadi/furry-wrapper",
+  "name": "furry-wrapper-new",
   "version": "0.0.5",
   "description": "A rewrite of hokkqi's furry API wrapper",
   "main": "dist/index.js",
